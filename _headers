@@ -1,0 +1,10 @@
+/
+  Cache-Control: no-cache, no-store, must-revalidate
+/index.html
+  Cache-Control: no-cache, no-store, must-revalidate
+/work.json
+  Cache-Control: no-cache, no-store, must-revalidate
+/test-work.json
+  Cache-Control: no-cache, no-store, must-revalidate
+/blank-work.json
+  Cache-Control: no-cache, no-store, must-revalidate
